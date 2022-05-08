@@ -1,4 +1,4 @@
-package edu.n3.exercise_3;
+package edu.n1.exercise_3;
 
 import java.io.FileWriter;
 import java.io.IOException;
