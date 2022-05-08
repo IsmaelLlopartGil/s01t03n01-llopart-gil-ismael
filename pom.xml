@@ -1,0 +1,15 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>cat.edu.barcelona_activa._it_academy.curs_java</groupId>
+	<artifactId>s01t01n01_llopart_gil_ismael</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>S01T01N01 Llopart Gil Ismael</name>
+	<description>Herència i Polimorfisme</description>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
+	</properties>
+
+</project>
